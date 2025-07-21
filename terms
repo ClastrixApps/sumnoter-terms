@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Terms of Service – SumNoter</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, sans-serif;
+      background-color: #fdfdfd;
+      color: #222;
+      line-height: 1.6;
+      padding: 2rem;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+
+    h1, h2 {
+      color: #1e88e5;
+    }
+
+    a {
+      color: #1e88e5;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    ul {
+      padding-left: 1.2rem;
+    }
+
+    .footer {
+      margin-top: 4rem;
+      font-size: 0.9rem;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+  <h1>Terms of Service</h1>
+  <p>Last updated: July 2025</p>
+
+  <p>By using the SumNoter app, you agree to the following terms and conditions:</p>
+
+  <h2>1. Use of Service</h2>
+  <p>SumNoter is provided for personal, academic, or professional summarization purposes. Misuse, automated scraping, or any form of abuse is prohibited.</p>
+
+  <h2>2. Accounts and Login</h2>
+  <p>You must sign in using your Google account. By doing so, you authorize us to access your public Google profile and email address for authentication and personalization purposes.</p>
+
+  <h2>3. Data Handling</h2>
+  <ul>
+    <li>We only store essential information such as user ID and email address.</li>
+    <li>We do not access, read, or store the content of your Google Drive or email.</li>
+    <li>All content you input or summarize in the app is handled securely and only stored if necessary to provide functionality.</li>
+  </ul>
+
+  <p>See our <a href="https://yourdomain.com/privacy">Privacy Policy</a> for more details.</p>
+
+  <h2>4. Subscriptions and Payments</h2>
+  <ul>
+    <li>SumNoter offers a subscription-based premium plan with extended features.</li>
+    <li>Payments are handled via Google Play Billing. We do not directly process or store your payment details.</li>
+    <li>Subscriptions renew automatically unless canceled via your Google account settings before the end of the billing cycle.</li>
+    <li>No refunds are provided for partial use or unused periods.</li>
+  </ul>
+
+  <h2>5. Intellectual Property</h2>
+  <p>All intellectual property rights related to SumNoter, including but not limited to its content, branding, and functionality, remain the property of the developers. You may not reverse engineer, clone, or redistribute the app or its content.</p>
+
+  <h2>6. Limitation of Liability</h2>
+  <p>We make no guarantees regarding the accuracy or usefulness of the summaries generated. SumNoter is provided “as is”. We are not liable for any direct or indirect damages resulting from the use or inability to use the service.</p>
+
+  <h2>7. Changes to Terms</h2>
+  <p>We reserve the right to modify these Terms at any time. Continued use of the app after changes are published constitutes your acceptance of the updated Terms.</p>
+
+  <div class="footer">
+    &copy; 2025 SumNoter. All rights reserved.
+  </div>
+</body>
+</html>
